@@ -37,7 +37,7 @@
     </div>
     <div class="container">
       <header>
-        <h1>Notes</h1>
+        <!-- <h1>Notes</h1> -->
         <button @click="showModal = true">+</button>
       </header>
       <div class="cards-container">
